@@ -3,5 +3,5 @@ items:
     page: refhb24_0_vorwort.adoc
   - title: Einleitung
     page: refhb24_1_einleitung.adoc
-  - title: Einleitung
-    page: refhb24_2_grundprinzipien.adoc    
+  - title: Grundprinzipien
+    page: refhb24_2_grundprinzipien.adoc
