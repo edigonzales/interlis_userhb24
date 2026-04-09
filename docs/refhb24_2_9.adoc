@@ -1,0 +1,7 @@
+:noindex:
+=== Das kleine Beispiel Roads als Einstieg
+Im xref:refhb24/refhb24_anhang_e.adoc[Anhang E - Das kleine Beispiel Roads] ist ein kleines Beispiel beigefügt, das die wichtigsten INTERLIS-Sprachelemente im Rahmen einer einfachen Anwendung vorstellt.
+
+.Das kleine Beispiel Roads.
+image::refhb24/refhb24_fig7.png[]
+
